@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 88d15b7e2c1564b3e8bdaff2c3f142d7
+timeCreated: 1521022930
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - coinUI: {instanceID: 0}
+  - collectToken: {instanceID: 0}
+  - hitEnemy: {instanceID: 0}
+  - gameOverMenu: {fileID: 1066160106402816, guid: 1207e1151ea8742f997e663543268815,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

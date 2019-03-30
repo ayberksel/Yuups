@@ -1,0 +1,1972 @@
+fileFormatVersion: 2
+guid: 634aa6f16946b402993b4b63108fa8d9
+timeCreated: 1525702118
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Yups Buton_0
+    21300002: Yups Buton_1
+    21300004: Yups Buton_2
+    21300006: Yups Buton_3
+    21300008: Yups Buton_4
+    21300010: Yups Buton_5
+    21300012: Yups Buton_6
+    21300014: Yups Buton_7
+    21300016: Yups Buton_8
+    21300018: Yups Buton_9
+    21300020: Yups Buton_10
+    21300022: Yups Buton_11
+    21300024: Yups Buton_12
+    21300026: Yups Buton_13
+    21300028: Yups Buton_14
+    21300030: Yups Buton_15
+    21300032: Yups Buton_16
+    21300034: Yups Buton_17
+    21300036: Yups Buton_18
+    21300038: Yups Buton_19
+    21300040: Yups Buton_20
+    21300042: Yups Buton_21
+    21300044: Yups Buton_22
+    21300046: Yups Buton_23
+    21300048: Yups Buton_24
+    21300050: Yups Buton_25
+    21300052: Yups Buton_26
+    21300054: Yups Buton_27
+    21300056: Yups Buton_28
+    21300058: Yups Buton_29
+    21300060: Yups Buton_30
+    21300062: Yups Buton_31
+    21300064: Yups Buton_32
+    21300066: Yups Buton_33
+    21300068: Yups Buton_34
+    21300070: Yups Buton_35
+    21300072: Yups Buton_36
+    21300074: Yups Buton_37
+    21300076: Yups Buton_38
+    21300078: Yups Buton_39
+    21300080: Yups Buton_40
+    21300082: Yups Buton_41
+    21300084: Yups Buton_42
+    21300086: Yups Buton_43
+    21300088: Yups Buton_44
+    21300090: Yups Buton_45
+    21300092: Yups Buton_46
+    21300094: Yups Buton_47
+    21300096: Yups Buton_48
+    21300098: Yups Buton_49
+    21300100: Yups Buton_50
+    21300102: Yups Buton_51
+    21300104: Yups Buton_52
+    21300106: Yups Buton_53
+    21300108: Yups Buton_54
+    21300110: Yups Buton_55
+    21300112: Yups Buton_56
+    21300114: Yups Buton_57
+    21300116: Yups Buton_58
+    21300118: Yups Buton_59
+    21300120: Yups Buton_60
+    21300122: Yups Buton_61
+    21300124: Yups Buton_62
+    21300126: Yups Buton_63
+    21300128: Yups Buton_64
+    21300130: Yups Buton_65
+    21300132: Yups Buton_66
+    21300134: Yups Buton_67
+    21300136: Yups Buton_68
+    21300138: Yups Buton_69
+    21300140: Yups Buton_70
+    21300142: Yups Buton_71
+    21300144: Yups Buton_72
+    21300146: Yups Buton_73
+    21300148: Yups Buton_74
+    21300150: Yups Buton_75
+    21300152: Yups Buton_76
+    21300154: Yups Buton_77
+    21300156: Yups Buton_78
+    21300158: Yups Buton_79
+    21300160: Yups Buton_80
+    21300162: Yups Buton_81
+    21300164: Yups Buton_82
+    21300166: Yups Buton_83
+    21300168: Yups Buton_84
+    21300170: Yups Buton_85
+    21300172: Yups Buton_86
+    21300174: Yups Buton_87
+    21300176: Yups Buton_88
+    21300178: Yups Buton_89
+    21300180: Yups Buton_90
+    21300182: Yups Buton_91
+    21300184: Yups Buton_92
+    21300186: Yups Buton_93
+    21300188: Yups Buton_94
+    21300190: Yups Buton_95
+    21300192: Yups Buton_96
+    21300194: Yups Buton_97
+    21300196: Yups Buton_98
+    21300198: Yups Buton_99
+    21300200: Yups Buton_100
+    21300202: Yups Buton_101
+    21300204: Yups Buton_102
+    21300206: Yups Buton_103
+    21300208: Yups Buton_104
+    21300210: Yups Buton_105
+    21300212: Yups Buton_106
+    21300214: Yups Buton_107
+    21300216: Yups Buton_108
+    21300218: Yups Buton_109
+    21300220: Yups Buton_110
+    21300222: Yups Buton_111
+    21300224: Yups Buton_112
+    21300226: Yups Buton_113
+    21300228: Yups Buton_114
+    21300230: Yups Buton_115
+    21300232: Yups Buton_116
+    21300234: Yups Buton_117
+    21300236: Yups Buton_118
+    21300238: Yups Buton_119
+    21300240: Yups Buton_120
+    21300242: Yups Buton_121
+    21300244: Yups Buton_122
+    21300246: Yups Buton_123
+    21300248: Yups Buton_124
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yups Buton_0
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 7629
+        width: 1849
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_1
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 7872
+        width: 1853
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 6691
+        width: 1122
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 6271
+        width: 152
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_4
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 6415
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_5
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 6271
+        width: 31
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_6
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 6271
+        width: 87
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_7
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 6271
+        width: 115
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_8
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 6271
+        width: 35
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_9
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 6271
+        width: 126
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_10
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 6271
+        width: 86
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_11
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 6271
+        width: 129
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_12
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 6271
+        width: 83
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_13
+      rect:
+        serializedVersion: 2
+        x: 5128
+        y: 6271
+        width: 115
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_14
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 6271
+        width: 34
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_15
+      rect:
+        serializedVersion: 2
+        x: 5523
+        y: 6415
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_16
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 6271
+        width: 121
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_17
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 6271
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_18
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 6271
+        width: 35
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_19
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 6271
+        width: 113
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_20
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 6271
+        width: 111
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_21
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 6271
+        width: 34
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_22
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 6271
+        width: 109
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_23
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 6271
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_24
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 6271
+        width: 109
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_25
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 6224
+        width: 126
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_26
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 6271
+        width: 109
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_27
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 6271
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_28
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 6271
+        width: 35
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_29
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 6271
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_30
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 6271
+        width: 30
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_31
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 6271
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_32
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 6271
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_33
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 6271
+        width: 134
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_34
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 6271
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_35
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 6271
+        width: 135
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_36
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 6215
+        width: 126
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_37
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 6271
+        width: 117
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_38
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 6271
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_39
+      rect:
+        serializedVersion: 2
+        x: 4484
+        y: 6271
+        width: 121
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_40
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 6220
+        width: 107
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_41
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 6271
+        width: 121
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_42
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 6271
+        width: 113
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_43
+      rect:
+        serializedVersion: 2
+        x: 4993
+        y: 6271
+        width: 121
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_44
+      rect:
+        serializedVersion: 2
+        x: 5306
+        y: 6271
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_45
+      rect:
+        serializedVersion: 2
+        x: 5441
+        y: 6271
+        width: 71
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_46
+      rect:
+        serializedVersion: 2
+        x: 5523
+        y: 6271
+        width: 35
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_47
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4975
+        width: 1849
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_48
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 4975
+        width: 1849
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_49
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 4040
+        width: 1122
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_50
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3618
+        width: 131
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_51
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 3618
+        width: 114
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_52
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 3761
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_53
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 3618
+        width: 113
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_54
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 3618
+        width: 33
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_55
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 3618
+        width: 130
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_56
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 3618
+        width: 83
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_57
+      rect:
+        serializedVersion: 2
+        x: 4475
+        y: 3618
+        width: 113
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_58
+      rect:
+        serializedVersion: 2
+        x: 4597
+        y: 3618
+        width: 34
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_59
+      rect:
+        serializedVersion: 2
+        x: 4866
+        y: 3761
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_60
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3618
+        width: 108
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_61
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3618
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_62
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 3618
+        width: 118
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_63
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3618
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_64
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 3618
+        width: 121
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_65
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3618
+        width: 115
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_66
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 3565
+        width: 126
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_67
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 3618
+        width: 30
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_68
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 3618
+        width: 109
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_69
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 3618
+        width: 73
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_70
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 3618
+        width: 108
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_71
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 3570
+        width: 130
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_72
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 3618
+        width: 109
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_73
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 3618
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_74
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 3618
+        width: 35
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_75
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 3618
+        width: 113
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_76
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 3618
+        width: 130
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_77
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 3565
+        width: 126
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_78
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 3618
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_79
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 3618
+        width: 91
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_80
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 3618
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_81
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 3570
+        width: 109
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_82
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 3618
+        width: 118
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_83
+      rect:
+        serializedVersion: 2
+        x: 4205
+        y: 3618
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_84
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 3618
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_85
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 3618
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_86
+      rect:
+        serializedVersion: 2
+        x: 4784
+        y: 3618
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_87
+      rect:
+        serializedVersion: 2
+        x: 4871
+        y: 3618
+        width: 30
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_88
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2321
+        width: 1849
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_89
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 2321
+        width: 1849
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_90
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1386
+        width: 1122
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_91
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 851
+        width: 135
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_92
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 851
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_93
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 851
+        width: 35
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_94
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 846
+        width: 126
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_95
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 846
+        width: 87
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_96
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 851
+        width: 113
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_97
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 851
+        width: 30
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_98
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 994
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_99
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 846
+        width: 118
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_100
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 851
+        width: 73
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_101
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 846
+        width: 118
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_102
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 851
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_103
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 846
+        width: 109
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_104
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 846
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_105
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 846
+        width: 109
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_106
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 851
+        width: 73
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_107
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 846
+        width: 108
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_108
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 798
+        width: 126
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_109
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 846
+        width: 109
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_110
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 851
+        width: 117
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_111
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 851
+        width: 34
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_112
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 851
+        width: 117
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_113
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 846
+        width: 131
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_114
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 794
+        width: 126
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_115
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 846
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_116
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 846
+        width: 91
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_117
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 846
+        width: 121
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_118
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 798
+        width: 109
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_119
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 846
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_120
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 851
+        width: 117
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_121
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 846
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_122
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 846
+        width: 121
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_123
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 851
+        width: 73
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Yups Buton_124
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 851
+        width: 34
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
